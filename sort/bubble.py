@@ -1,6 +1,5 @@
 def bubble(arr):
     """bubble sort"""
-
     arr_len = len(arr)
 
     for index in range(arr_len):
